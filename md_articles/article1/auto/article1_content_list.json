@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "Durable dual-methylpiperidinium crosslinked poly (binaphthyl-co-terphenyl piperidinium) anion exchange membranes with high ion transport and electrochemical performance ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Ting Gao a,1, Xue Lang Gao a,1, Yvonne Shuen Lann Choob,Jia Jun Wanga, Zhi Hong Cai a Qiu Gen Zhanga, Ai Mei Zhua, Qing Lin Liua,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Depmentl Chemical Engineering, Xiamen University,Xiamen 361oo5,P.R. China bSchoolflss ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nDual-piperidinium crosslinking   \nIon transport   \nAlkaline stability   \nFuel cells   \nWater electrolysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A series of novel crosslinked poly(binaphthyl-co-terphenyl piperidinium)s (QBNTPs） based on various dualpiperidinium croslinkers are designed and prepared as anion exchange membranes (AEMs) for alkaline fuel cells and water electrolysis.The excelent alkaline stability of the dual-piperidinium crossinker with methyl substituent on the C4-position of the piperidinium ring is first confirmed.The as-prepared dual-methylpiperidinium croslinked poly(binaphthyl-co-terphenyl piperidinium)(QBNTP-MP11) AEM shows an exceptional $\\mathrm { O H ^ { - } }$ conductivity $( 1 8 1 . 2 ~ \\mathrm { m S ~ c m } ^ { - 1 \\cdot }$ ）and a suppressed swelling ratio $( 1 9 . 7 \\% )$ at $9 0 ~ ^ { \\circ } \\mathrm { C }$ QBNTP-MP11 also exhibits a superior toughness $( 6 . 0 8 \\mathrm { M J } \\mathrm { m } ^ { - 3 } )$ and a marked storage modulus $( 6 . 5 2 \\times 1 0 ^ { 6 } \\mathrm { P a } )$ . Additionally, having less than $5 \\% \\mathrm { O H } ^ { - }$ conductivity deterioration after being treated in $2 \\ \\mathrm { M \\ N a O H }$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 5 6 0 \\mathrm { ~ h ~ }$ ,QBNTP-MP11 demonstrates an outstanding durability.Notably,QBNTP-MPl1 can achieve a high peak powder density of 1.41 W $\\mathrm { c m } ^ { - 2 }$ in a single cell test and an excellent current density of $2 . 7 \\mathrm { A } \\mathrm { c m } ^ { - 2 }$ at $2 . 0 \\mathrm { ~ V ~ }$ in alkaline water electrolysis. Meanwhile,QBNTP-MPl demonstrates a desirable durability in a single celloperation and water electrolysis. All those results validate thatthe durable and robust QBNTP-MP11 has a good application perspective.The work is anticipated to provide a valuable guidance for the design of new stableand high-performance AEMs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The polyelectrolyte membrane-based energy conversion and storage devices have received increasing interest owing to their great potential for addressing non-renewable-energy shortages and global warming. Among them,fuel cells are the prospective device to generate electricity by utilizing clean hydrogen energy in an eco-friendly and eficient electrochemical process [1-3],whereas water electrolysis is the potential device for hydrogen production by splitting water cleanly and sustainably [4-6].The anion exchange membranes (AEMs),which are a component of anion exchange membrane fuel cells (AEMFCs) or anion exchange membrane water electrolysis (AEMWE),are responsible for the transport of anions and water molecules and have been advanced quickly.However,relative to commercial benchmark Nafion proton exchange membranes (PEMs)，most of the existing AEMs exhibit undesirable alkaline resistance due to chemically unstable cation groups and polymer backbones in high-pH environments,which significantly limit their practical applications [7,8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Various cationic groups have been extensively explored, including quaternary ammonium (QA)[9],imidazolium [1O],pyrrolidinium [11], piperidinium [12], phosphonium [13],and metal-organic cations [14]. Unfortunately,in a caustic alkaline environment, the majority of these cations are vulnerable to the $\\mathrm { O H } ^ { - }$ attack and degrade via nucleophilic substitution $( S _ { \\mathrm { N } } 2 )$ ,Hofmann degradation, Ylide,as well as rearrangement reactions [15]. Numerous efforts have been taken into optimizing the cation structures of the AEMs to promote the alkaline stability. Tang et al．synthesized the chemically stable cobaltocenium cations by reasonably installing alkyl groups based on the consideration of electronic and steric effects [16].Holdcroft etal. prepared a durable C2- substituted benzimidazolium ring to reinforce the alkaline stability of ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AEMs [17].Yan et al.successfully synthesized many imidazolium groups with high alkaline stability via introducing substituents [18,19]. Sun et al.recently designed ultra-stable piperidinium cations on the basis of the electronic and steric effects of $\\alpha { - } \\mathrm { C }$ substituents [20]. Lee et al.provided a fascinating insight into the influence of $\\gamma$ -substituted groups on the long-term stability of N-heterocyclic ammonium cations [1]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Advanced AEM materials with ether-free polymer frameworks have attracted widespread attention in recent years,as a promising alternative to traditional AEM materials with ether-containing backbones,due to their remarkable chemical durability resulting from the absence of alkaline-sensitive ether linkages [21].In the boom of ether-free polymers,poly(arylene)-based polymer backbones prepared by an acidcatalyzed polycondensation are popular due to their extraordinary durability and facile synthetic procedures [22-24].However,these materials still have some shortcomings that limit their large-scale commercialization.Quaternized poly(arylene piperidinium) (QAPAP) AEMs with an excessive ion content,particularly quaternized poly (biphenyl piperidinium） (QAPBP） counterpart,often exhibit serious dimensional swelling, jeopardizing their mechanical properties and durability [25]. Introducing bulky rigid aromatic structures into the polymer backbones can prevent chain stack and increase inner free volume to develop ionic transportability.However, the bulky aromatic groups tend to increase the membrane rigidity and brittleness,resulting in undesired mechanical properties [26].Many strategies, including side-chain grafting[27],crosslinking[28] and blending[29],have been used to limit water swelling and reinforce mechanical properties of these AEMs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Crosslinking provides a helpful pathway that effectively facilitates the development of AEM performance.However,conventional crosslinkers composed of the hydrophobic structures are usually constructed against the ionic conductivity of AEMs [3O].Many researchers have conducted extensive studies on the optimum structure of crosslinkers to improve physicochemical durability and accelerate anion conduction of AEMs [28]. Zhu et al.investigated the effects of the length of the hydrophilic multi-cation crosslinker on membrane performance and discovered that hexyl spacers between polymer main chains and QA groups in the crosslinker could maintain a reasonable balance between high conductivity and moderate dimensional stability [31].Lee et al. prepared highly conductive,stable,and robust dual-piperidinium crosslinked polyaromatic-based AEMs by tuning the alkyl spacer in a crosslinker [32].Piperidinium cation group is prominently stable under a harsh alkaline condition owing to the low ring strain and effective steric protection provided by the symmetrical six-membered-ring structure.However,there is a significant variance in the alkaliresistant capability of piperidinium cations with different substituents. Up to now,there have been few publications on the effect of various crosslinkers containing piperidinium-based cation groups on the membrane properties.Therefore,enriching and optimizing the piperidiniumbased crosslinker through molecular structure design for advanced AEM materials is imperative. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we synthesized three types of dual-piperidinium crosslinkers tethered with flexible hexane spacers and preliminarily investigated the influence of substituents on properties of crosslinkers from experimental and computational analysis.Afterward, three types of dual-piperidinium-crosslinked AEMs based on chemically stable ether-free poly(binaphthyl-co-terphenyl piperidinium) (QBNTP) backbones were successfully synthesized,while a non-crosslinked AEM with the same main chain was served as a control.The bulky binaphthyl units introduced in the polymer backbones can improve the ionic conduction by enlarging free volume inside the AEMs.Additionally,the incorporation of a flexible dual-piperidinium crosslinker in the ether-free QBNTP main chain can enhance the ionic conductivity and chemical stability by establishing distinct microphase separations and constructing adequate ion conductive highways.The relationship between the structure and properties of these AEMs in this work is thoroughly studied.Furthermore,electrochemical performance of the prepared AEMs ina single cell and water electrolysis is further evaluated.With superb ionic conductivity,robust alkaline stability,and excellent electrochemical performance,the potential application of the as-prepared AEMs is highlighted. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1． Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "p-Terphenyl (TP),binaphthyl (BN),trifluoromethanesulfonic acid (TFSA),trifluoroacetic acid (TFA),piperidine hydrochloride (HP),4- methylpiperidine (MP),4-phenylpiperidine (PP),1,6-dibromohexane (DBH) and $\\mathrm { C H _ { 3 } I }$ were purchased from J&K Scientific (Beijing).Ethyl acetate (EA),acetonitrile $\\mathrm { ( C H _ { 3 } C N ) }$ ，anhydrous ether,dichloroethane (DCM),dimethyl sulfoxide (DMsO),anhydrous ethanol (EtOH),methanol (MeOH), NaOH, $\\mathrm { K _ { 2 } C O _ { 3 } }$ and ${ \\mathrm { N a } } _ { 2 } S { \\mathrm { O } } _ { 4 }$ were supplied by Sinopharm Chemical Reagent (Shanghai).1-Methyl-4-piperidone，DMSO- $\\cdot \\mathbf { d } _ { 6 }$ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ and $\\mathrm { D } _ { 2 } \\mathrm { O }$ were purchased from Aladdin (Shanghai).All chemicals and regents were analytical grade and used directly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Synthesis of materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1.Synthesis of crosslinkers and polymers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three kinds of crosslinkers: dual-piperidinium (QDHP),dualmethylpiperidinium (QDMP）and dual-phenylpiperidinium (QDPP) were synthesized according to a modified procedure in the literature [33] and detailed in the Supporting Information (SI). The synthetic procedure of the poly(binaphthyl-co-terphenyl piperidine） (BNTP) copolymer via a super-acid polymerization reaction was described in the SI. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.2.Quaternization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of the polyelectrolytes were fabricated by a Menshutkin reaction. Taking the dual-piperidinium crosslinked poly(binaphthyl-co-terphenyl piperidinium）(QBNTP-HP1O） polyelectrolyte as an example,BNTP $( 2 . 0 0 \\mathrm { g } , 6 \\mathrm { m m o l } )$ ）， $\\mathrm { K _ { 2 } C O _ { 3 } } \\left( 0 . 8 0 \\mathrm { g } , 3 \\mathrm { m m o l } \\right)$ ,QDHP $( 0 . 5 0  g , 0 . 6 \\mathrm { m m o l } )$ and $\\mathrm { C H _ { 3 } I }$ $1 2 5 ~ \\mu \\mathrm { L }$ ，2mmol） were evenly stirred in DMSO（ $( 4 0 \\ \\mathrm { m L }$ .The mixture solution was heated to $8 0 ~ ^ { \\circ } \\mathrm { C }$ and agitated for 2 days.After that, the solution was cooled to $3 0 ~ ^ { \\circ } \\mathrm { C } ,$ ，adding excess $\\mathrm { C H _ { 3 } I } \\left( 1 . 0 0 \\ g \\right)$ to quaternize the remaining piperidine active sites.After reaction 1 day,the solution was precipitated in significantly extra EA (1 L) and purified with deionized water not less than 3 times to remove impurities.The yellowish powder was obtained by filtering and drying,and its yield was around $9 0 \\%$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Membrane preparation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $5 0 ~ \\mathrm { m L }$ of DMSO, $1 . 0 0 ~ \\mathrm { g }$ of the polyelectrolyte powder was added and stirred to get a clear solution.Then,the obtained solution was centrifuged to remove any insoluble solid and was cast onto a $2 5 \\mathrm { c m } ^ { 2 }$ of square glass plate.After being dried at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $2 4 \\ \\mathrm { h }$ using a vacuum oven,a transparent and thin membrane $( \\sim 1 5 ~ \\mu \\mathrm { m } )$ was peeled off carefully from the plate.Finally,the membrane samples were immersed in a $1 \\ \\mathrm { M } \\ \\mathrm { N a O H }$ solution for $4 8 \\mathrm { h }$ to fully exchange halide ion $\\mathrm { ( I ^ { - } }$ and $\\mathbf { B } \\mathbf { r } ^ { - } .$ to $\\mathrm { O H } ^ { - }$ and soaked in degassed purified water before measurements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The molecular structures of all synthesized materials including intermediate reactant and product crosslinkers,copolymer and polyelectrolytes were determined bya NMR spectrometer (Bruker,AV 400, Switzerland) using $\\mathrm { C D C l } _ { 3 }$ $\\mathrm { D _ { 2 } O / C D _ { 3 } O D }$ or/and DMSO- $\\cdot \\mathbf { d } _ { 6 }$ as the solvent. The analysis of the membrane morphology was realized by SEM (SEM, ZEISS Sigma,Germany),AFM (Bruker,USA),TEM(Tecnai F30,Japan) as well as SAXs (SAXSess $\\mathrm { m c ^ { 2 } }$ ,Austria).The specific operation methods including sample preparation and test conditions are referred to our previous work [34]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.Measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The typical property measurements,including ion exchange capacity (IEC),water uptake (WU),swelling ratio (SR),hydration number (), static water contact angle (SwCA),hydroxide conductivity,normalized ion diffusion coefficient $\\left( \\mathrm { D } / \\mathrm { D } _ { 0 } \\right)$ ,mechanical properties,and thermal and alkaline stability，are detailed in the SI. The QBNTP and dualmethylpiperidinium crosslinked poly(binaphthyl-co-terphenyl piperidinium) (QBNTP-MP11) AEMs were chosen for the fuel cell test.A well dispersed catalyst ink,containing a $\\mathrm { P t } / \\mathrm { C }$ catalyst (Hispec 4000, $4 0 \\%$ Pt), a $5 \\ \\mathrm { w t } \\%$ QAPBP/DMsO solution [26],isopropyl alcohol and deionized water $( 1 0 { : } 1 \\ \\mathrm { v o l } \\% )$ ,was sprayed onto both membranes using Exacta Coat OP3.The Pt-metal loadings at the cathode and the anode were controlled at $0 . 3 5 \\pm 0 . 0 3 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ . The coated membranes were separately sandwiched between two pieces of carbon paper to form two membrane electrode assemblies (MEAs).A fuel cell system (850E-100 W,Hephas Energy,China) was adopted to evaluate the fuel cell performance at $8 0 ^ { \\circ } \\mathrm { C }$ witha $\\mathrm { H } _ { 2 } / \\mathrm { O } _ { 2 }$ flow rate of $6 0 0 \\mathrm { { m L m i n } } ^ { - 1 }$ and $1 0 0 \\%$ RH without backpressure.The in-build impedance analyzer was used to record the high frequency resistance (HFR) of the two cells.Besides, the performance of the QBNTP-MP11 $( 2 5 \\mu \\mathrm { m } )$ and QBNTP $( 2 5 \\mu \\mathrm { m } )$ AEMs for water electrolysis was also considered.Pt/C and $\\mathrm { I r O } _ { 2 }$ were used as the anode catalyst and the cathode catalyst,respectively.The catalyst loadings were controlled at $1 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ for both the electrodes and the active area was $4 \\mathrm { c m } ^ { 2 }$ QAPBP was used as an anion exchange ionomer (AMI).The MEA prepared by the hot-pressed method was assembled into a water electrolysis cell.The polarization curve was collected at $8 0 ~ ^ { \\circ } \\mathrm { C }$ by the voltage sweep method,and the potential was increased at a rate of $5 \\mathrm { m V } s ^ { - 1 }$ .The durability was evaluated at $8 0 ~ ^ { \\circ } \\mathrm { C }$ by feeding a 1 M aqueous KOH solution into both the electrodes at a flow rate of $3 ~ \\mathrm { m L }$ $\\bar { \\operatorname* { m i n } } ^ { - 1 }$ and applying a constant current density of $1 \\mathrm { A } \\mathrm { c m } ^ { - 2 }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Density functional theory (DFT) calculation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The optimized geometry structure, molecular orbital (MO) energy and Muliken population analysis of each piperidinium-based crosslinker repeating unit and binding energy barrier of each repeating unit with $\\mathrm { O H } ^ { - }$ were calculated by DFT at the $\\mathbf { M } 0 6 2 – \\mathbf { X } / 6 – 3 1 1 + \\mathbf { G }$ (d, p) level on Gaussian package and visualized in Gaussian or Chem3D [35]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.Synthesis and alkaline stability of piperidinium-based crosslinker. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three types of dual-piperidinium crosslinkers were designed to reveal the influence of the C4-substituted piperidinium cations on their alkaline stability. The QDMP, QDHP and QDPP crosslinkers were synthesized according to the literature [33].The specific synthesis procedures,as well as reaction conditions,are illustrated in Scheme 1(a - c). The $^ 1 \\mathrm { H }$ NMR spectra of the reactant,intermediate and final crosslinkers are depicted in Figs.S1, S2 and S3.All the characteristic peaks were carefully assigned and labeled on the corresponding NMR spectra. The results show that all the desired dual-cation compounds (QDMP, QDHP and QDPP） were successfully synthesized by analyzing the change in the signal location and integral area of the $^ 1 \\mathrm { H }$ NMR spectra. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To assess the influence of the C4-substituted piperidinium cations on their chemical stability,all the crosslinkers were treated in $5 ~ \\mathrm { M } ~ \\mathrm { N a O H }$ $\\mathrm { D _ { 2 } O / C D _ { 3 } O D }$ $( 1 { : } 3 ~ \\mathrm { v o l } \\% )$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ Herein co-solvent $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ playsarole in accelerating the cation degradation and facilitating the dissolution of the crosslinkers [33]. Throughout the test,all the solutions are always homogeneous and transparent. The structure of these compounds was elucidated with $^ 1 \\mathrm { H }$ NMR spectroscopy (Fig. $\\mathbb { 1 } ( { \\mathbf { a } } - { \\mathbf { c } } ) )$ ). Several new signalsappeared in the corresponding spectra, indicating that degradation occurred during the monitoring period.According to the $^ 1 \\mathrm { H }$ NMR spectrum analysis,additional degradation peaks appeared at 2.0-3.5 ppm,indicating that these dual-cation crosslinkers may have degraded via $S _ { \\mathrm { N } } 2$ reaction,in which $\\mathrm { O H ^ { - } }$ ions attack the $\\mathsf { \\alpha { - } } \\mathsf { C }$ atoms on the dualcation crosslinkers.Possibly because the $\\alpha { - } \\mathrm { C }$ atoms directly connected to the N atom exhibit a more centralized positive distribution than the distant $\\beta$ -C atoms,implying that the nucleophile $\\left( \\mathrm { O H } ^ { - } \\right)$ can more easily attack the $\\mathsf { \\alpha { - } } \\mathsf { C }$ atoms [2O].The degradation degree of the cation compounds was calculated by the integral-area ratio of their characteristic peaks [17].As shown in Fig.1(d),both QDMP and QDHP showed only $3 . 7 \\%$ and $4 . 2 \\%$ degradation,respectively,after $4 8 0 \\mathrm { h }$ of exposure in a 5 M NaOH $\\mathrm { D _ { 2 } O / C D _ { 3 } O D }$ $( 1 { : } 3 \\ \\mathrm { \\ v o l } \\% )$ ）solution，whereas QDPP showed $1 0 . 5 \\%$ degradation under the same conditions.The pristine piperidinium group without substituents possesses special constrained ring conformation and can partly withstand the $\\mathrm { O H } ^ { - }$ attack.When electrondonating methyl groups appear on the C4-position of the piperidinium ring,the electron density of the functional group with positive charge further increases,efectively reducing the likelihood of $\\mathrm { O H ^ { - } }$ attack and greatly improving the alkaline stability of the piperidinium cation [17,36]. On the contrary, including electron-withdrawing phenyl substituent in the piperidinium ring can promote the cation degradation attacked by $\\mathrm { O H } ^ { - }$ resulting in a decrease in the chemical stability.The alkaline stability of these piperidinium-based crosslinkers herein can be ranked as $\\mathrm { Q D M P } > \\mathrm { Q D H P } > \\mathrm { Q D P P }$ ,and is in good accord with the report [1]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/742f3f7b7b5c27a97542f3e61d546163ae9f9a7e1139b86116e472d1c8230864.jpg",
+        "image_caption": [
+            "Scheme 1. Synthesis routes for piperidinium-based crosslinkers: (a) QDMP,(b) QDHP,and (c) QDPP. "
+        ],
+        "image_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4213cf24d0758ef31249616041a7df0424cc48dc4a7bee24f61d3d4c2efce29.jpg",
+        "image_caption": [
+            "Fig. 1. $^ 1 \\mathrm { H }$ NMR spectra of (a) QDMP,(b) QDHP and (c) QDPP in 5 MNaOH $\\mathrm { D _ { 2 } O / C D _ { 3 } O D }$ $( 1 { : } 3 \\mathrm { ~ v o l } \\% )$ at $8 0 \\ { } ^ { \\circ } \\mathrm { C } ,$ (d) degradation degree of the resulted piperidiniumbased rosslinkers in the alkaline stability test,(e)binding energy of the QDMP,QDHP and QDPP units with $\\mathrm { O H } ^ { - }$ ,and (f) molecular orbital energy of QDMP-C3, QDHP-C3, QDPP-C3 and $\\mathrm { O H } ^ { - }$ ina waterphase(yelowispositiveandblueisnegative).(Forinterpretationof thereferences tocolourinthisfigurelegend,the reader is referred to the web version of this article.) "
+        ],
+        "image_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The binding energy barrier (△E) of the piperidinium cation repeating units with $\\mathrm { O H ^ { - } }$ was calculated using DFT calculations.As displayed in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1(e), the $\\Delta \\mathrm { E }$ of QDMP-OH, QDHP-OH and QDPP-OH is- 527.64, -497.68 and $- \\ 4 9 5 . 0 8 \\mathrm { k J } \\mathrm { m o l } ^ { - 1 }$ , respectively. It means that the energy required for $\\mathrm { O H } ^ { - }$ to bind the QDMP cation group is higher than that required for the other two piperidinium cation groups;and the $\\mathrm { O H ^ { - } }$ groups are more susceptible to dissociation and transport between adjacent QDMP groups,thus reducing the potential $\\mathrm { O H } ^ { - }$ attack and improving its alkaline stability [37,38]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The molecular orbital (MO) energy of the crosslinker repeating units (cation with 2- $\\mathrm { ( C H _ { 2 } ) _ { 3 } }$ - spacers,denoted as QDMP-C3, QDHP-C3 and QDPP-C3) in water phase is shown in Fig.1(f).Notably,QDMP-C3 posed the highest LUMO energy of $0 . 3 7 8 \\ \\mathrm { e V }$ among QDHP-C3 (0.371 eV), QDPP-C3 $( 0 . 2 9 9 \\mathrm { e V } )$ ,and HOMO energy of $\\mathrm { O H ^ { - } }$ 0 $_ - 0 . 4 5 1$ eV). This reveals that QDMP-C3 can be less susceptible to the $\\mathrm { O H ^ { - } }$ attack than the other two crosslinkers,which is favored by the higher binding energy of QDMP with $\\mathrm { O H ^ { - } }$ ions.All of these computational results perfectly align with the experimental results,emphasizing the QDMP robust alkaline stability.Furthermore,the Mulliken population analysis of the aforementioned symmetric piperidinium cations with three alkyl groups is depicted in Fig.S4.As can be observed, the $\\alpha$ -C atoms directly connected to the N atom are positively charged while the $\\beta$ -C atoms separated from the N atom by one alkyl spacer are negatively charged.Notably,the charge distribution on the $\\alpha { - } \\mathrm { C }$ atoms in the piperidinium ring is greater than that on the $\\alpha$ -C atoms in the alkyl chains.This implies that the positively charged positions are more vulnerable to $\\mathrm { O H ^ { - } }$ attack originating from the α-C atoms on the piperidinium ring,better known as $S _ { \\mathrm { N } } 2$ reaction [33].Thus,it inspired us to map the possible degradation mechanism of these piperidinium cations under high-pH conditions (Fig. S5). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Synthesis and structural characterization of polymers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ether-free BNTP copolymer was prepared via acid-catalyzed polycondensation,and the aryl to carbonyl compound feed ratio was fixed at 1.0:1.1 $( \\mathrm { m o l \\% } )$ to accelerate the polymerization and increase the polymer molecular weight [39].During the process,the carbonyl group in 1-methyl-4-piperidone was firstly protonated by TFSA to form electrophiles and then rapidly reacted with nucleophilic BN and TP aromatic monomers $( 1 { : } 9 \\mathrm { \\ m o l } \\% )$ viaan electrophilic substitution,as indicated in Scheme 2.For the preparation of NMR samples,a few TFA (50 $\\mu \\mathrm { L } )$ was used as a co-solvent for the convenience of NMR analysis by splitting the protonated piperidine signals and shifting the water signal [25]．As depicted in the $^ 1 \\mathrm { H }$ NMR spectra of the BNTP copolymer (Fig. S6), the signals of $8 . 4 0 { - } 7 . 2 2 ~ \\mathrm { p p m }$ are attributed to the aromatic protons whereas the signals of 3.70-2.10 ppm belong to the alkyl protons in the piperidine ring,indicating that the BNTP copolymer was successfully synthesized. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Different piperidinium-based crossinked AEMs were prepared to study the influence of the C4-substituted piperidinium-based crosslinker on the morphology and property of the AEMs.All the desired polyelectrolytes were fabricated bya Menshutkin reaction with their corresponding dual-piperidinium compound or iodomethane $\\mathrm { ( C H _ { 3 } I ) }$ and the BNTP polymer backbone [32].The molecular architectures of the resulted polyelectrolytes were clarified by $^ 1 \\mathrm { H }$ NMR (Fig. S7(a-d). The fully quaternized QBNTP was designed for comparison and its successful synthesis was confirmed by the relative integral area ratio between the piperidinium chemical shifts $( 2 . 3 \\mathrm { - } 2 . 2 \\ \\mathrm { p p m } )$ and the aromatic chemical shifts $( 7 . 3 \\mathrm { - } 7 . 9 \\ \\mathrm { p p m } )$ in Fig.S7(a).For the crosslinked polyelectrolytes: QBNTP-HP10，QBNTP-MP11andQBNTP-PP13(dual-phenylpiperidinium crosslinked QBNTP),the last two digits denote the crosslinking degree $( \\% )$ .Herein the crosslinking degrees of the crosslinked AEMs were controlled in between $1 0 \\% { - } 1 3 \\%$ determined by the integral ratio of aliphatic $\\operatorname { \\cdot H } \\left( 1 . 1 \\mathrm { - } 1 . 8 \\mathrm { p p m } \\right)$ to aromatic- $\\mathrm { . H ( 7 . 2 \\mathrm { - } 7 . 9 p p m ) }$ inthe $^ 1 \\mathrm { H }$ NMR spectra of the corresponding crosslinked polyelectrolyte (Fig. S7 (b-d)).Due to onset of gelation of the polyelectrolyte with $1 5 \\%$ of crosslinking degree,a relatively low crosslinking degree range was thus imposed in this work to ensure the solubility of all the crosslinked polyelectrolytes and for the convenience of membrane preparation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Morphological features ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All the AEMs prepared by the solvent-casting method are transparent and flexible (Fig.S8(a)).All the resultant AEMs exhibited smooth and dense surface and could be controlled at a thickness of around $1 5 ~ { \\mu \\mathrm { m } }$ observed by SEM shown in Fig.S8(b and c)).Nanoscale phase separation is an effective method to promote the $\\mathrm { O H } ^ { - }$ transport by building welldeveloped ionic highways.The microphase structure of the AEMs was explored by AFM.From the phase images shown in Fig.2(a), the bright domains belong to the hydrophobic polymer framework while the dark domains denote the hydrophilic ionic clusters of the piperidinium cations.The crosslinked AEMs have an observably clearer hydrophilic/ hydrophobic phase-separated morphology than the original QBNTP AEM ascribed to the existence of hydrophilic cation crosslinkers.It is noteworthy that the QBNTP-PP13 AEM shows smaller hydrophilic phase domains than the other two crosslinked AEMs,which is mainly attributed to the sterically bulky phenyl substituent in QBNTP-PP13 effectively preventing the agglomeration of the hydrophilic cation groups [40].On the contrary, QBNTP-MP11 presents a marked phase separation morphology. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d5c6992183d63cb70ff79b073fa1eb54b943993bf868a42cdf676b7e2f45067.jpg",
+        "image_caption": [
+            "Scheme 2. Synthesis of various dual-piperidinium crossinked polyelectrolytes. "
+        ],
+        "image_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/18ecd27e9b4c2d0a0461172fffa151aa1bcf6a99b1692c2238a1205e8670997b.jpg",
+        "image_caption": [
+            "Fig.2.The images of (a) AFM and (b) TEM of the as-prepared AEMs. "
+        ],
+        "image_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Meanwhile,TEM was also adopted to interpret the intramembranous nanophase morphology (Fig.2(b)).The bright regions represent the hydrophobic aromatic polymer main chains whereas the dark regions signify the hydrophilic cationic clusters as anion conductors.By comparing all the as-prepared AEMs in this work,it is found that QBNTP-MP11 displays a clearest nanophase separation morphology forming large ion clusters and well-continuous ion conductive channels. This result is consistent with the AFM's (Fig.2(a)).SAXS was employed to characterize the microstructure of the resulting AEMs as it can quantify and directly reflect ion-cluster size.As displayed in Fig.S9,the scattering vector of the as-resulted AEMs is detected at $0 . 3 5 { - } 0 . 3 9 \\mathrm { n m } ^ { - 1 }$ ： By utilizing the Bragg equation $( \\mathsf { d } = 2 \\pi / \\ q _ { \\mathrm { m a x } } )$ ,the values of the domain size (d) range in between 16.5 and $1 8 . 0 \\ \\mathrm { n m }$ .TheQBNTP-MP11 AEM possesses the lowest scattering peak position value and the most significant domain size,implying that QBNTP-MP11 has a larger hydrophilic domain than the other AEMs,as determined by the morphological analysis of TEM and AFM (Fig.2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.Fundamental properties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Membranes with adequate IECs and good swelling resistance are the key for high efficiency and long-term lifetime of AEMFCs.As listed in Table 1, herein the as-fabricated AEMs possess a high IEC ${ \\it 5 2 . 7 0 }$ meq $\\mathbf { g } ^ { - 1 } \\big ]$ ）measured by the back-titration method,which is_close to the theoretical values (IEC: $2 . 7 8 { - } 2 . 9 0 ~ \\mathrm { m e q } ~ \\mathbf { g } ^ { - 1 } .$ ）obtainedby $^ 1 \\mathrm { H }$ NMR. The crosslinked AEMs display slightly higher IEC values than QBNTP owing to the contribution of the dual-piperidinium crosslinkers.Moreover, all the resulted AEMs exhibit a moderate water uptake (WU) $( 6 7 \\% - 8 3 \\% )$ combined with a limited swelling ratio (SR) $( 1 2 \\% - 2 2 \\% )$ at $9 0 ~ ^ { \\circ } \\mathrm { C }$ (Fig.SlO(a and b)).The higher WU and lower SR of the crosslinked AEMs than those of the pristine QBNTP demonstrate that the introduction of piperidinium-based crosslinkers is beneficial for enhancing the water-retention ability and limiting the swelling of the AEMs by forming hydrophilic crosslinked networks [3O]．Interestingly，QBNTP-MP11 showed a slightly higher WU than QBNTP-HP1O,maybe the methyl substituent retarded the chain stacking and enlarged the interchain spacing,resulting in an enhanced water uptake,which is in line with the literature [41].It should be noted that the QBNTP-PP13 AEM showed the lowest WU and SR,which indicated that the hydrophobic phenyl substituent group on the piperidinium cations could reduce the water uptake,leading to a slight dimensional change of QBNTP-PP13 in water [42].Besides,the hydration number (λ) of all the AEMs is maintained at 9.0-11.4,and the density (p) of the as-prepared AEMs is in between 1.52 and $1 . 7 1 \\ \\mathrm { g \\ c m ^ { - 3 } }$ at $3 0 ~ ^ { \\circ } \\mathrm { C } .$ The static water contact angle (SWCA) of äall the AEMs is ina range $6 1 . 1 \\substack { - 8 3 . 1 ^ { \\circ } }$ ,indicating that all the AEMs are generally hydrophilic.QBNTP-PP13 showed a higher value of SWCA than the other two crosslinked AEMs due to the presence of hydrophobic phenyl substituent in the crosslinker. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/facf1aa0b57af95588cf1caf06972361720caf81df52b1c85fa1ab77caaf639e.jpg",
+        "table_caption": [
+            "Table 1 Fundamental properties of the membranes. "
+        ],
+        "table_footnote": [
+            "a.Calculated from NMR spectra of the AEMs with $\\mathrm { O H } ^ { - }$ b.Determined by back titration in $\\mathrm { O H ^ { - } }$ form. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Membrane</td><td colspan=\"2\">IEC (meq g-1)</td><td rowspan=\"2\">WU (%) 30°C</td><td rowspan=\"2\">SR (%) 30°C</td><td rowspan=\"2\">30°C</td><td rowspan=\"2\">pg cm-3) 30℃</td><td rowspan=\"2\">SWCA （） 30C</td></tr><tr><td>Theo.a</td><td>Exp.b</td></tr><tr><td>QBNTP</td><td>2.78</td><td>2.71 ± 0.07</td><td>45.2 ±0.7</td><td>16.1 ±0.2</td><td>9.0</td><td>1.52</td><td>83.1</td></tr><tr><td>QBNTP- HP10</td><td>2.90</td><td>2.82 ±</td><td>53.4 ±0.5</td><td>12.8 ±0.1</td><td>10.3</td><td>1.63</td><td>67.0</td></tr><tr><td>QBNTP- MP11</td><td>2.90</td><td>0.04 2.85 ±</td><td>59.4 ±0.6</td><td>13.8 ±0.3</td><td>11.4</td><td>1.71</td><td>61.1</td></tr><tr><td>QBNTP- PP13</td><td>2.87</td><td>0.06 2.84 土 0.08</td><td>50.9 ±0.6</td><td>7.5± 0.3</td><td>9.9</td><td>1.58</td><td>74.7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5.Mechanical properties and thermal stability ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The long-term viability of applications in alkaline fuel cells or water electrolysis is in some way relied on the mechanically tough and thermally stable AEMs.As shown in Fig.3(a),herein the as-resulted AEMs in $\\mathrm { O H ^ { - } }$ form exhibit an excellent tensile strength (TS) $3 0 . 1 \\mathrm { - } 3 1 . 0 \\mathrm { M P a } )$ and an acceptable elongation at break (Eb) $( 1 1 . 1 \\% - 2 4 . 6 \\% )$ . The crosslinked AEMs displayed a higher Eb $( > 1 5 . 6 \\% )$ than the pristine QBNTP counterpart ascribed to the incorporation of the flexible dual-piperidinium crosslinkers suggesting that these dual-cation crosslinkers can efectively improve the membrane toughness.QBNTP-MP11 showed the highest Eb among the three types of crosslinked AEMs,likely due to the higher WU value,inducing the softening of the membrane [43].Besides, QBNTP-MP11 showed a superior toughness (implying both strong and flexible) with a value of $6 . 0 8 \\ \\mathrm { M J \\ m ^ { - 3 } }$ to QBNTP-HP10 $( 3 . 7 2 \\mathrm { M J } \\mathrm { m } ^ { - 3 } )$ ， QBNTP-PP13 $( 3 . 6 6 \\ \\mathrm { M J } \\ \\mathrm { m } ^ { - 3 } )$ and QBNTP $( 2 . 4 4 ~ \\mathrm { M J } ~ \\mathrm { m } ^ { - 3 } )$ (Fig.3(b)). Moreover, to further explore the mechanical robustness of the resultant membranes,rheological measurements were implemented,as depicted in Fig.S11.All the as-prepared membranes exhibited an excellent storage modulus (G') and loss modulus (G) in the range of $1 0 ^ { 5 } \\mathrm { - } 1 0 ^ { 7 } \\mathrm { P a }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In particularly,QBNTP-MP11 exhibits the highest average $_ { \\mathbf { G } } ,$ value of $6 . 5 2 \\times 1 0 ^ { 6 }$ Pa.This is significantly higher than the $_ { \\mathbf { G } } ,$ values of QBNTPHP10 $( 1 . 8 8 \\times 1 0 ^ { 5 }$ Pa),non-crosslinked QBNTP $( 2 . 2 8 \\times 1 0 ^ { 5 } \\ \\mathrm { P a } )$ ,and QBNTP-PP13 $( 3 . 1 8 \\times 1 0 ^ { 5 } ~ \\mathrm { P a } )$ ,by 3.5 times,2.9 times,and 2 times its value,respectively.The attractive modulus of QBNTP-MP11 is mainly attributed to its flexible methyl moiety on the piperidinium group of the crosslinker and the impressive crosslinked structure.Overall, the asprepared AEMs exhibit a satisfactory viscoelasticity and meet the mechanical property requirements for AEMFC [44].It also can be seen from Fig.3(c） that QBNTP-MP11 displayed an excellent flexibility and toughnessas reflected by its foldingability and its capabilityof withstandinga weight 10,ooo times its own weight. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3(d and e) shows the TGA and DTG curves of the as-prepared AEMs.All the AEMs possess a good thermostability below ${ 2 4 0 ~ ^ { \\circ } C } ,$ then the degradation of piperidinium cations between 240 and ${ 3 5 0 ~ ^ { \\circ } C } ,$ and final breakage of the polymer backbones at $5 2 0 ~ ^ { \\circ } \\mathrm { C } .$ Slight decomposition before $1 0 0 ~ ^ { \\circ } \\mathrm { C }$ observed in the DTG curve (Fig.3(e)) might be caused by moisture absorption from the air during weighing.It should be noted that QBNTP-PP13 showed higher degradation temperature than other membranes at each thermal decomposition stage,possibly originating from the thermally stable phenyl substituent in the crosslinker [45,46]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbc8a75b0bc101917ffcceb0a5d8353307124ff6a2e1a5e486fd97afc82c4acd.jpg",
+        "image_caption": [
+            "Figed DTG curves of the as-prepared AEMs. "
+        ],
+        "image_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.6.Ion transport properties ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ion transport properties are one of the most critical parameters of AEMs and significantly dictate the power output performance and their applications.As shown in Fig.4(a),the crosslinked AEMs have the $\\mathrm { O H } ^ { - }$ conductivities superior to the native QBNTP attributed to higher IEC and WU for the former.Among the three types of crosslinked AEMs,QBNTPMP11 exhibited the highest $\\mathrm { O H ^ { - } }$ conductivity $( 1 8 1 . 2 \\mathrm { m } s \\mathrm { c m } ^ { - 1 }$ at $9 0 ^ { \\circ } \\mathrm { C } )$ ascribed to a distinct nanophase separation and higher WU,while QBNTP-PP13 showed an inferior $\\mathrm { O H } ^ { - }$ conductivity at the same temperature as a result of its lower WU from the inherent hydrophobic nature of the benzene ring on the piperidinium-cation crosslinker.These results matched well with the morphology observations (Fig.2).Additionally,the apparent activation energy $\\mathrm { ( E _ { a } ) }$ calculated by the Arrhenius equation $( \\mathtt { E _ { a } } = \\mathtt { \\_ { b R } } ,$ where b is the slope and Ris the ideal-gas constant) is plotted in Fig.4(b),and the $\\mathrm { E _ { a } }$ values of all the resulted membranes are in $2 0 . 0 1 { - } 2 0 . 6 6 \\ \\mathrm { k J \\ m o l ^ { - 1 } }$ ,reflecting a low energy barrier confronted by anion transport.The higher conductivity of QBNTP-MP11 may stem from higher IEC combined with WU and better phase separation,not just from single one of them.Whereas the higher $\\mathrm { E _ { a } }$ value of QBNTP-MPl1 is probably ascribed to the introduction of a more hydrophilic QDMP-based crosslinker,suggesting that varying the crosslinker structure and water uptake may have a potential effect on the temperature dependent conductivity [47-49].Fig.4(c) shows the $\\mathrm { O H ^ { - } }$ conductivity-modulus relationship of the resulted AEMs at a temperature in between 30 and $9 0 ~ ^ { \\circ } \\mathrm { C }$ .Of these,with the highest $\\mathrm { O H } ^ { - }$ conductivity and the highest modulus,QBNTP-MP11 is superior to the other asprepared AEMs,indicating that QBNTP-MP11 has the“win-win”merit of high mechanical strength and ionic conductivity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,Fig.4(d) shows the conductivity and SR of some representative crosslinked AEMs with ether-free polyaromatic main chains in current study and in other publications for comparison [31,32,5O-55]. Meanwhile Table S1 lists the IEC,WU, SR and conductivityof some crosslinked poly(arylene)-based AEMs. All the piperidinium-based crosslinked AEMs in the present study demonstrate a superior hydroxide conductivity with slight dimensional swelling, making them promising materials for FCs.Ultimately,anormalized ion diffusion coefficient $\\left( \\mathrm { D } / \\mathrm { D } _ { 0 } \\right)$ was measured fora furtherunderstanding of the intrinsic ionic conductivity of the AEMs.Fig.4(e) shows the $\\mathrm { D } / \\mathrm { D } _ { 0 }$ values of the as-prepared AEMs herein and some currently reported AEMs [34,56-59].The AEMs in this work have higher $\\mathrm { D } / \\mathrm { D } _ { 0 }$ values (at a relatively low λ level) than some membranes reported in the literature [34,56-59]. The high $\\mathrm { D } / \\mathrm { D } _ { 0 }$ value of QBNTP-MP11 disclosed its fast ion transport properties,resulting ina superb $\\mathrm { O H ^ { - } }$ conductivity.This can be explained by the distinct nanophase separation as well as welldeveloped ionic highways within the QBNTP-MP11 AEM. (as verified by morphological analysis). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.7． Alkaline stability ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemically stable AEMs can provide powerful guarantee for longterm operation of AEMFCs or AEMWE.Variations in the conductivity and molecular architecture of the AEMs under a strong basic environment and at elevated temperature can well reflect their chemical stability.As enunciated in Fig.5a,the conductivity loss of all the membranes is less than ${ \\bf 1 0 \\% }$ monitored by immersing them in $2 \\mathrm { M N a O H }$ at $8 0 ^ { \\circ } \\mathrm { C }$ for $1 5 6 0 \\mathrm { h }$ .The lower conductivity loss of the crosslinked AEMs might be due to the steric shielding of the piperidinium-based crosslinkers with flexible alkyl chains,thereby increasing the difficulty of $\\mathrm { O H } ^ { - }$ attack on the cationic groups.After the rigorous alkaline stability test,the crosslinked QBNTP-MP11 AEM proclaimed an outstanding alkaline stability with less than $5 \\%$ loss of the $\\mathrm { O H } ^ { - }$ conductivity. According to the aforesaid experimental and theoretical results,QBNTPMP11 is the most stable membrane derived from the excellent alkaline resistance of the electron-donating substituent QDMP [1,36]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the $^ 1 \\mathrm { H }$ NMR spectra of all the membranes before and after the alkaline test can gain an insight into the structure breakdown. As shown in Fig. 5(b) and Fig. Sl2(a-c),all the $^ 1 \\mathrm { H }$ NMR spectra exhibit negligible signals from the degradation of piperidinium cations in the prepared AEMsafter $1 5 6 0 \\mathrm { h }$ .This indicates an unobvious degeneration of the molecular architecture of membranes during the test.On one hand, the backbone without alkali-sensitive heteroatoms and aromaticetherbonds guarantees a good alkaline resistance undera harshalkaline environment. On the other hand, the highly durable dual-piperidinium crosslinkers can also further reinforce the durability of AEMs by providing conformational protections.Therefore,these results assert that the piperidinium-based crosslinked AEMs are promising to be an advanced material for AEMFCs or AEMWE. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef4bc5785d89efc8ca9d129a02632bcd852757354770bc5fb8c0114b0c93270b.jpg",
+        "image_caption": [
+            "Fig. 4. (a) $\\mathrm { O H } ^ { - }$ conductivity)sposdouctiiouuelatosflds,ddctiiutifofi this work and in the literature [31,32,5O-55],and (e) comparison of $\\mathbf { D } / \\mathbf { D } _ { 0 }$ of the as-prepared AEMs with other reports [34,56-59]. "
+        ],
+        "image_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/fad87c6cba0061f7f547960c0a775c5b07588960fbb9771e91024edfa1c647bb.jpg",
+        "image_caption": [
+            "ig.5.(a) Change of conductivity of the AEMs as a function of time during test, (b) $^ 1 \\mathrm { H }$ NMR spectrum of QBNTP-MP11,(c) WU and SR,and (d) mechanical roperties of the membranes before and after the alkaline test. "
+        ],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,all the membranes after the alkaline treatment preserve both higher WU and SR than before treatment (Fig.5(c)).This phenomenon is perhaps attributed to the effect of hydration-induced plasticization that amorphous polymers can unwind the chain entanglement during the long-time high temperature alkaline treatment, increasing the free volume for water storage and improving SR [43,60]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/070af23921ed3e43b292d79a23eb82dd8429e870d93ee4f360c7baf1686ee797.jpg",
+        "image_caption": [
+            "Fig.6.(a)Poarzrdoesieuell-s()urabltd at $8 0 ~ ^ { \\circ } \\mathrm { C }$ ,(c) comparison on PPD of a $\\mathrm { H _ { 2 } / O _ { 2 } }$ singlecellinthis work (aredcircle)andinthereports inthepastfiveyears24,28,5O,64-68],(d)polarizationcurves for alkaline water electrolysis based on QBNTP-MP11 and QBNTP at $8 0 ~ ^ { \\circ } \\mathrm { C }$ and ambient pressure by circulating a 1 M KOH solution in the anode and cathode at a rate of $3 \\mathrm { m L m i n } ^ { - 1 }$ .Test conditions: $\\mathrm { I r O } _ { 2 }$ loadings of $1 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ and $7 . 5 \\mathrm { w t \\% }$ QAPBP for anode; Pt/C loadings of $1 \\mathrm { m g } \\mathrm { c m } ^ { - 2 }$ and $2 5 \\mathrm { w t \\% }$ QAPBP for cathode,(e) durability of AEMWE with QBNTP-MP11 and QBNTP at $8 0 ~ ^ { \\circ } \\mathrm { C }$ and a constant current density of $1 \\mathrm { A c m } ^ { - 2 }$ at ambient pressure,and (f) comparison on current density at $2 . 0 \\mathrm { V }$ for alae isreferred to the web version of this article.) "
+        ],
+        "image_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This results in a depression in both membrane degradation by shielding layer of water and membrane mechanical stability,signifying that a reasonable water uptake is important for improving the alkaline stability of AEMs [61].As shown in Fig.5(d),the Eb of the AEMs increased while the TS decreased after the alkaline stability test mainly due to the increased water absorption resulting in less brittle and more rubbery AEMs [43].This result further emphasizes that the AEMs possess an excellent mechanical durability even after being in service under high$\\mathtt { p H }$ conditions for $1 5 6 0 \\ \\mathrm { h }$ 、A slight change in the water uptake can be observed after the alkaline test,likely resulting in acceptable variations of the conductivity,and dimensional and mechanical stability.For the effect of water content on the alkaline stability of AEMs,as noted by Dekel et al. [43,6l-63],the cations degraded more rapidly with decreasing the water content,resulting in a decline in the membrane performance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8.Potential applications ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8.1.Fuel cell ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The QAPBP ionomers，QBNTP and QBNTP-MP11 AEMs were assembled into fuel cell fixtures by the catalyst-coated membrane (CCM) method.Fig. 6(a) shows a high open circuit voltage (OCV) of over $1 . 0 0 \\mathrm { V }$ for both the cells.This manifests that both the AEMs can effectively block gas penetration.More importantly,the cell assembled with the crosslinked QBNTP-MP11 AEM signals an exceptional peak power density (PPD) of $1 . 4 1 ~ \\mathrm { W ~ c m } ^ { - 2 }$ at a current density of $3 . 1 8 \\mathrm { ~ A ~ c m } ^ { - 2 }$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ and $1 0 0 \\%$ RH without back pressure.QBNTP-MP11 shows a much higher PPD value than QBNTP $( 0 . 8 3 \\mathrm { ~ W ~ c m } ^ { - 2 } )$ due to its higher ionic conductivity and toughness.Furthermore,the HFR of the two cells was collected and plotted,as shown in Fig.S13.The QBNTP-MP11 based cell unveiled a lower HFR $( 0 . 0 6 - 0 . 0 4 \\Omega \\mathrm { c m } ^ { 2 } )$ than QBNTP $( \\sim 0 . 0 9 \\Omega \\mathrm { c m } ^ { 2 } )$ ： The durability the single cell with QBNTP or QBNTP-MP11 was examined at $8 0 ~ ^ { \\circ } \\mathrm { C }$ $1 0 0 \\%$ RH, $0 . 2 \\mathrm { A } \\mathrm { c m } ^ { - 2 }$ current density and $\\mathrm { H } _ { 2 } / \\mathrm { O } _ { 2 }$ flow rate of $2 0 0 \\mathrm { m L m i n ^ { - 1 } }$ .A slower voltage decay rate of $0 . 5 \\mathrm { m V h } ^ { - 1 }$ in $^ \\mathrm { 1 0 0 h }$ can be found for the QBNTP-MP11-based cell,and a larger voltage decay rate of $2 . 0 \\mathrm { m V h } ^ { - 1 }$ in $^ \\mathrm { 4 0 h }$ for the QBNTP-based cell (Fig. 6b).Moreover, the QBNTP-MP11-based cell displays a higher voltage retention $( > 9 1 \\% )$ after $^ { 1 0 0 \\mathrm { ~ h ~ } }$ ，indicating that QBNTP-MP11 is highly promising for AEMFC.The excellent durability may be attributed to the efficient ionic transport, robust mechanical strength and chemical stability of QBNTPMP11.Fig. 6(c) shows the PPD of $\\mathrm { H } _ { 2 } / \\mathrm { O } _ { 2 }$ single cells based on the AEMs in this work and those reported in the past five years [24,28,5O,64-68]. The QBNTP-MP11-based cell yields a PPD ina high level,and is superior to commercial FAA-3-50, FAA-3-30 and FAA-3 with the PPD value of 0.299,0.306 and $0 . 7 3 8 \\mathrm { W } \\mathrm { c m } ^ { - 2 }$ ,respectively.The result implied that the crosslinked QBNTP-MP11 AEMisa hopeful material for AEMFC. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.8.2.Water electrolysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The QBNTP-MP11 and QBNTP AEMs were also applied for water electrolysis ina1 MKOH solution.Pt/C, $\\mathrm { I r O } _ { 2 }$ and QAPBP were utilized as the anode catalyst, the cathode catalyst and the AMI,respectively. Fig.6(d) gives the polarization curves of MEA with QBNTP-MP11 or QBNTP at ${ 8 0 ~ ^ { \\circ } \\mathrm { C } }$ 、Expectedly,the MEA assembled with QBNTP-MP11 generates a higher current density $( 2 . 7 \\mathrm { ~ A ~ c m } ^ { - 2 }$ at $2 . 0 \\ \\mathrm { V } )$ than that with QBNTP( $\\cdot 1 . 9 \\mathrm { ~ A ~ c m } ^ { - 2 }$ at $2 . 0 \\ \\mathrm { V } ]$ ,mainly ascribed to the enhanced conductivity of QBNTP-MP11 because of its low inner ohmic resistance. This result is in accord well with its single cell performance.In addition, the durability of QBNTP-MP11 and QBNTP in alkaline Water electrolysis was evaluated by circulating a1 M KOH electrolyte ata preset current density of $1  { ~ \\mathrm { ~ A ~ } \\mathrm { ~ c m } ^ { - 2 } }$ ，The voltage of the QBNTP-MP11-based cell increased with a rate of $2 . 0 \\ \\mathrm { m V } \\ \\mathrm { h } ^ { - 1 }$ in $^ \\mathrm { ~ 1 0 0 ~ h ~ }$ under 1 A $\\mathrm { c m } ^ { - 2 }$ current density at $8 0 ~ ^ { \\circ } \\mathrm { C } ,$ ，while that of the QBNTP-based cell increased with a rate of $9 . 0 \\mathrm { m V h } ^ { - 1 }$ within $^ { 4 0 \\mathrm { h } }$ under the same condition,as depicted in Fig.6(e).This means that the cell with QBNTP-MP11 shows better water electrolysis performance and durability than that with QBNTP.According to a comparison of the polarized current density of AEMWE in this work (Fig. 6(f)) and in current reports [67,69-75],the current density of the QBNTP-MP11-based MEA is at a substantially decent level and could be improved by optimizing the operating conditions.These findings reveal that the QBNTP-MP11 AEMhas the potential to be used in alkaline water electrolysis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To sum up,a series of dual-piperidinium crosslinkers was synthesized for the first time,and their alkaline stability was valued by both experiment and computation.Of those,the QDMP crosslinker with electron-donating groups exhibits a robust alkaline stability.By dualcation crosslinking,the crosslinked AEMs are found to evince more obvious microphase separation as well as well-connected conductive nanochannels than the pristine QBNTP AEM.Among them,QBNTPMP11 exhibits a remarkable $\\mathrm { O H } ^ { - }$ conductivity of $1 8 1 . 2 \\mathrm { m } s \\mathrm { c m } ^ { - 1 }$ with a limited swelling ratio of $1 9 . 7 \\%$ at $9 0 ~ ^ { \\circ } \\mathrm { C }$ 、Meanwhile,QBNTP-MP11 shows striking mechanical properties including an impressive toughness $( 6 . 0 8 \\mathrm { ~ M J ~ m } ^ { 3 } )$ and an excellent storage modulus $( \\bar { 6 } . 5 2 \\times 1 0 ^ { 6 } \\mathrm { \\bar { P a } } )$ ： Furthermore, benefiting from the robust chemical stability of the QDMP crosslinker, QBNTP-MP11 possesses an outstanding alkaline stability, displaying an ionic conductivity retention $> 9 5 \\%$ after soaked in $2 \\textbf { M }$ NaOH at $8 0 ~ ^ { \\circ } \\mathrm { C }$ for $1 5 6 0 \\ \\mathrm { h }$ ，Notably,the single cell based on QBNTPMP11 exhibits a high PPD of 1.41 W $\\mathrm { c m } ^ { - 2 }$ at a current density of 3.18 A $\\mathrm { c m } ^ { - 2 }$ at $8 0 ~ ^ { \\circ } \\mathrm { C }$ .The cell with QBNTP-MP11 manifests a high current density of 2.7 A $\\mathrm { c m } ^ { - 2 }$ at $2 . 0 \\mathrm { ~ V ~ }$ and an acceptable durability in water electrolysis.Meanwhile,a decent durability of QBNTP-MP11 can be observed in the operation of AEMFC and AEMWE.All those results highlight the superior overall performance of QBNTP-MP11 with great potential for fuel cell and water electrolysis applications. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Declaration of Competing Interest ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Data availability ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors do not have permission to share data. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We gratefully appreciate the financial support from the National Natural Science Foundation of China (Grant No． 22O78272 & 22278340). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at https://doi. org/10.1016/j.cej.2023.143107. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] N. Chen, Y. Jin, H. Liu, C.Hu, B.Wu, S.Xu,H.Li,J.Fan, Y.M.Lee, Insight into the alkaline atability of N-heterocyclic ammonium groups for anion-exchange polyelectrolytes, Angew. Chem. Int. Ed. 60 (2021) 19272-19280.   \n[2] V. Vijayakumar, S.Y.Nam, Recent advancements in applications of alkaline anion exchange membranes for polymer electrolyte fuel cells, J. Ind. Eng. Chem. 70 (2019) 70-86.   \n[3] J. Xue, J. Zhang, X. Liu, T. Huang, H. Jiang, Y. Yin, Y. Qin, M.D. Guiver, Toward alkaline-stable anion exchange membranes in fuel cels: cycloaliphatic quaternary ammonium-based anion conductors, Electrochem. Energ. Rev.5 (2) (2022) 348-400.   \n[4]D.Aili, A.G. Wright,M.R. Kraglund, K. Jankova, S.Holdcroft, J.O.Jensen, Towards a stable ion-solvating polymer electrolyte for advanced alkaline water electrolysis, J.Mater. Chem.A5 (10) (2017) 5055-5066. [5]K. Chand, O. Paladino, Recent developments of membranes and electrocatalysts tor the hydrogen production by anion exchange membrane water electrolysers: a review, Arabian J. Chem.16 (2023) 104451-104507.   \n[6] E.J. Park, C.G. Arges, H. Xu, Y.S. Kim, Membrane strategies for water electrolysis, ACS Energy Lett. 7 (10) (2022) 3447-3457.   \n[7] Z.F. Pan, L. An, T.S. Zhao, Z.K. Tang, Advances and challenges in alkaline anion exchange membrane fuel cels, Prog. Energy Combust. Sci. 66 (2018) 141-175.   \n[8] G.Das,J.-H.Choi, P.K.T. Nguyen,D.-J. Kim, Y.S.Yoon, Anion exhange membranes for fuel cellapplication: a review, Polymers 14 (2022) 1197-1231.   \n[9] A.M. Ahmed Mahmoud, K. Miyatake, Highly conductive and alkaline stable partially fluorinated anion exchange membranes for alkaline fuel cels: Effect of ammonium head groups, J. Membr. Sci. 643 (2022) 120072-120085.   \n[10] X. Zhang, J. Guo, X. Chu, C.Fang, Y. Huang,L. Liu, N. Li, Mechanicaly flexible bulky imidazolium-based anion exchange membranes by grafting PEG pendants for alkaline fuel cells, J. Membr. Sci. 659 (2022) 120820-120831.   \n[11] F. Gu, H. Dong,Y.Li, Z. Sun,F. Yan, Base stable pyrrolidinium cations for alkaline anion exchange membrane applications, Macromolecules 47 (19) (2014) 6740-6747.   \n[12] J. Zhang,W. Yu, X.Liang, K. Zhang, H. Wang, X. Ge, C.Wei, W. Song, Z. Ge,L. Wu, T. Xu, Flexible bis-piperidinium side chains construct highlyconductive and robust anion-exchange membranes, ACS Appl. Energy Mater. 4 (9) (2021) 9701-9711.   \n[13] M. Kumari, J.C. Douglin, D.R. Dekel, Crossinked quaternary phosphoniumfunctionalized poly(ether ether ketone) polymer-based anion-exchange membranes, J. Membr. Sci. 626 (2021) 119167-119179.   \n[14] X. Liu, N. Xie,J. Xue, M. Li, C. Zheng, J. Zhang, Y. Qin, Y. Yin, D.R. Dekel, M. D. Guiver, Magnetic-field-oriented mixed-valence-stabilized ferrocenium anionexchange membranes for fuel cells, Nat. Energy 7 (2022) 329-339.   \n[15] W. You, K.M. Hugar, R.C. Selhorst, M. Treichel, C.R.Peltier, K.J.T. Noonan,G. W. Coates, Degradation of organic cations under alkaline conditions, J. Org. Chem. 86 (1) (2021) 254-263.   \n[16] T. Zhu, Y.e. Sha, H.A. Firouzjaie, X. Peng, Y. Cha, D.M.M.M. Dissanayake, M. D. Smith, A.K. Vannucci, W.E. Mustain, C. Tang, Rational synthesis of metallo cations toward redox-and alkaline-stable metallo-polyelectrolytes, J. Am. Chem. Soc. 142 (2) (2020) 1083-1089.   \n[17]J.Fan,A.G.Wght,.BrionT.WeissachTJG.asiJ.WardTJ S. Holdcroft, Cationic polyelectrolytes,stable in10 M $\\mathrm { K O H _ { a q } }$ a $1 0 0 ^ { \\circ } \\mathrm { C } ,$ ACS Macro Lett. 6 (10) (2017) 1089-1093.   \n[18] Z.Si,L. Qiu, H. Dong,F.Gu, Y.Li,F.Yan,Effects of substituents and substitution positions on alkaline stability of imidazolium cations and their corresponding anion-exchange membranes, ACS Appl. Mater. Interfaces 6 (6)(2014) 4346-4355.   \n[19] J. Pan, Z. Sun, H. Zhu, H. Cao, B.Wang, J. Zhao,F. Yan, Synthesis and characterization of main-chain type polyimidazolium-based alkaline anion exchange membranes, J. Membr. Sci. 6i0 (2020) 118283-118294.   \n[20] J.Li, C. Yang, S.Wang, Z. Xia, G. Sun, Chemically stable piperidinium cations for anion exchange membranes, RSC Advances 12 (41) (2022) 26542-26549.   \n[21] W. You, K.J.T. Noonan, G.W. Coates, Alkaline-stable anion exchange membranes: a review of synthetic approaches, Progre. Polymer Sci.100 (2020) 101177-101190.   \n[22] J. Wang, Y. Zhao, B.P. Setzler, S. Rojas-Carbonell C. Ben Yehuda, A. Amel, M. Page,L. Wang, K. Hu,L. Shi, S.Gotesfeld, B. Xu, Y.Yan,Poly(aryl piperidinium) membranes and ionomers for hydroxide exchange membrane fuel cells, Nat. Energy 4 (2019) 392-398.   \n[23] N. Chen, C. Hu,HH. Wang, S.P. Kim, HM. Kim, W.H. Lee, J.Y. Bae, J.H. Park, Y. M. Lee,Poly(alkyl-terphenyl piperidinium) ionomers and membranes with an outstanding alkaline-membrane fuel-cell performance of 2.58 W $\\mathrm { c m } ^ { - 2 } { } ,$ Angew. Chem. Int. Ed. 133 (2021) 7789-7797.   \n[24] N. Chen, H.H. Wang, S.P. Kim, H.M. Kim, W.H. Lee, C. Hu,J.Y. Bae, E.S.Sim, Y.- C. Chung, J.-H. Jang, S.J. Yoo, Y. Zhuang, Y.M. Lee, Poly(fluorenyl aryl piperidinium) membranes and ionomers for anion exchange membrane fuel cells, Nat. Commun. 12 (2021) 2367-2379.   \n[25] J.S. Olsson, T.H. Pham, P.Jannasch, Poly(arylene piperidinium) hydroxide ion exchange membranes: Synthesis,alkaline atability,and conductivity, Adv. Funct. Mater. 28 (2018) 1702758-1702768.   \n[26] W.T.Gao, X.L. Gao, W.W. Gou, J.J. Wang, Z.H. Cai, Q.G. Zhang, A.M. Zhu,Q.L. Liu, High-performance tetracyclic aromatic anion exchange membranes containing twisted binaphthyl for fuel cells, J. Membr. Sci. 655 (2022) 120578-120588.   \n[27] W.W. Gou, W.T. Gao, X.L. Gao, Q.G. Zhang, A.M. Zhu, Q.L. Liu, Highly conductive fluorinated poly(biphenyl piperidinium) anion exchange membranes with robust durability, J. Membr. Sci. 645 (2022) 120200-120211.   \n[28] J.J. Wang, W.T. Gao, Y.S.L.Choo, Z.H.Cai, Q.G. Zhang, A.M. Zhu, Q.L.Liu, Highly conductive branched poly(aryl piperidinium) anion exchange membranes with robust chemical stability, J. Colloid Interface Sci. 629 (2023) 377-387.   \n[29] H.H. Wang, C. Hu, J.H. Park, H.M. Kim, N.Y. Kang, J.Y.Bae, W.H Lee,N. Chen, Y. M. Lee,Reinforced poly(fluorenyl-co-terphenyl piperidinium) anion exchange membranes for fuel cells, J. Membr. Sci. 644 (2022) 120160-120168.   \n[30] N. Chen, C.Lu, Y.Li, C.Long, Z.Li, H. Zhu, Tunable multi-cations-crossinked poly (arylene piperidinium)-based alkaline membranes with high ion conductivity and durability, J. Membr. Sci. 588 (2019) 117120-117129.   \n[31] T. Zhao, C. Long, Z. Wang, H. Zhu, Multication cros-linked poly(p-terphenyl isatin)anion exchange membranes for fuel cells: Effect of cross-linker length on membrane performance, ACS Appl. Energy Mater. 4 (2021) 14476-14487.   \n[32] N. Chen, J.H. Park, C. Hu,HH. Wang, H.M. Kim, N.Y. Kang, Y.M. Lee, Dipiperidinium-croslinked poly(fluorenyl-co-terphenyl piperidinum)s forhighperformance alkaline exchange membrane fuel cells, J. Mater. Chem. A 10 (7) (202.2) 3678-3687   \n[əə] △. 1all, ou,J.PaI,J. IdU,I. CaU,I. ∠Iu, r.all, pyrrolidinium-type main-chain polymer: the synergetic effect between adjacent cations, J. Membr. Sci. 618 (2021) 118689-118699.   \n[34] X.L. Gao, L.X. Sun, H.Y. Wu, Z.Y. Zhu, N. Xiao, J.H. Chen, Q. Yang, Q.G. Zhang, A. M. Zhu, Q.L. Liu, Highly conductive fluorine-based anion exchange membranes with robust alkaline durability, J. Mater. Chem. A 8 (26) (2020) 13065-13076.   \n[35]M.J.Frisch,G.W.Trucks,H.B.Schlegel,G.E.Scuseria,M.A.Robb,J.R.Cheesean, G.Scalmani, V. Barone,G.A. Petersson,H. Nakatsuji, X.Li, M. Caricato,A.V. Marenich,J. Bloino,B.G.Janesko,R.Gomperts,B.Mennucci, H.P.Hratchian,J.V. Ortiz,A.F.Izmaylov,J.L. Sonnenberg,Williams,F.Ding,F.Lipparini,F.Egidi,J. Goings,B.geroe,eon,ge,G.res N. Rega,G. Zheng,W. Liang,M.Hada,M. Ehara,K. Toyota,R.Fukuda,J. Hasegawa,M.Ishida, T.Nakajima,Y.Honda,O. Kitao,H. Nakai, T.Vreven,K. Throssell,J.A.Montgomery Jr.,J.E.Peralta,F.Ogliaro,M.J.Bearpark,J.J.Heyd, E.N.Brothers, K.N.Kudin, V.N. Staroverov, T.A. Keith,R.Kobayashi, J. Normand, K.Raghavachari,A.P.Rendell, J.C.Burant, S.S.Iyengar, J. Tomasi, M. Cossi, J.M. Millam,M. Klene, C.Adamo,R.Cammi,J.W.Ochterski,R.L.Martin,K.Morokuma, O.Farkas, J.B.Foresman,D.J.Fox Gaussian 16 Rev. B.O1,Wallingford, CT,2016.   \n[36] J. Chen, M. Zhang, C. Shen, S. Gao, Preparation and characterization of non-nbonded side-chain anion exchange membranes based on poly(2,6-dimethyl-1,4- phenylene oxide), Ind. Eng. Chem. Res.61 (4) (2022) 1715-1724.   \n[37] Q.Liu, W. Ma,L. Tian, J. Li,L. Yang,F.Wang, Z.Wang, J. Li, Z. Wang, H. Zhu Side-chain cation-grafted poly(biphenyl piperidine) membranes for anion exchange membrane fuel cells, J. Power Sources 551 (2022) 232105-232116.   \n[38] L. Yang, Z. Wang, F. Wang, Z. Wang, H. Zhu, Poly(aryl piperidinium) anion exchange membranes with cationic extender sidechain for fuel cells, J. Membr. Sci. 653 (2022) 120448-120459.   \n[39] M.T. Guzman-Gutiérrez, D.R. Nieto,S.Fomine, S.L. Morales, M.G. Zolotukhin, M.C. G. Hernandez, H. Kricheldorf, E.S. Wilks,Dramatic enhancement of superacidcatalyzed polyhydroxyalkylation reactions, Macromolecules 44 (2) (2011) 194-202.   \n[40] T.H. Pham, J.S. Olsson,P. Jannasch, Effects of the N-alicyclic cation and backbone structures on the performance of poly(terphenyl)-based hydroxide exchange membranes,J. Mater. Chem.A7 (26) (2019) 15895-15906.   \n[41] Y. Zhu, Y. He, X. Ge, X. Liang, M.A. Shehzad, M. Hu, Y. Liu, L. Wu, T. Xu, A benzyltetramethylimidazolium-based membrane with exceptional alkaline stability in fuel cels: role of its structure inalkaline stability, J. Mater. Chem. A 6 (2018) 527-534.   \n[42] W. Sheng, X. Zhou,L. Wu, Y. Shen, Y. Huang,L. Liu, S. Dai, N. Li, Quaternized poly (2,6-dimethyl-1,4-phenylene oxide) anion exchange membranes with pendant sterically-protected imidazoliums for alkaline fuel cels, J. Membr.Sci. 601 (2020) 117881-117890.   \n[43] Y. Zheng, U. Ash, R.P.Pandey, A.G. Ozioko, J. Ponce-Gonzalez, M. Handl, T. Weissbach, J.R. Varcoe, S.Holdcroft, M.W. Liberatore,R. Hiesgen, D.R. Dekel, Water uptake study of anion exchange membranes, Macromolecules 51 (9) (2018) 3264-3278.   \n[44] D. Koronka, K. Miyatake, Anion exchange membranes containing no β-hydrogen atoms on ammonium groups: synthesis, properties, and alkaline stability, RSC Adv. 11 (2021) 1030-1038.   \n[45] J.S. Olsson, T.H. Pham, P. Jannasch, Tuning poly(arylene piperidinium) anionexchange membranes by copolymerization, partial quaternization and crosslinking, J. Membr. Sci. 578 (2019) 183-195.   \n[46] T.H. Pham, J.S. Olsson, P. Jannasch, N-spirocyclicquaternary aammonium ionenes for anion-exchange membranes, J. Am. Chem. Soc.139 (2017) 2888-2891.   \n[47] X.Li, Q.Liu, Y. Yu, Y. Meng, Quaternized poly(arylene ether) ionomers containing triphenyl methane groups for alkaline anion exchange membranes, J. Mater. Chem. A 1 (2013) 4324-4335.   \n[48] X. Chu, J.Liu, S. Miao,L. Liu, Y.Huang,E. Tang, S.Liu, X. Xing, N.Li, Crucialrole of side-chain functionality in anion exchange membranes: Properties and alkaline fuel cell performance, J. Membr. Sci. 625 (2021) 119172-119183.   \n[49] Z.Li,R. Yu, C.Liu,J. Zheng, J. Guo,T.A.Sherazi,S.Li,S. Zhang, Preparationand characterization of side-chain poly(aryl ether ketone) anion exchange membranes by superacid-catalyzed reaction, Polymer 222 (2021) 123639-123648.   \n[50] N. Chen, C. Hu, H.H. Wang, J.H. Park, H.M. Kim, Y.M. Lee, Chemically & physically stable crossinked poly(aryl-co-aryl piperidinium)s for anion exchange membrane fuel cels, J. Membr. Sci. 638 (2021) 119685-119695.   \n[51] S. Chen, H. Peng, M. Hu, G. Wang, L.i. Xiao, J.Lu, L. Zhuang, Ultrathin self-crosslinked alkaline polymer electrolyte membrane for APEFC applications, ACS Appl. Energy Mater. 4 (5) (2021) 4297-4301.   \n[52] X. Du, H. Zhang, Y. Yuan, Z. Wang, Constructing micro-phase separation structure to improve the performance of anion-exchange membrane based on poly(aryl piperidinium) cross-linked membranes, J. Power Sour. 487 (2021) 229429-229439.   \n[53] T.Jiang, Y. Zhou, Y.Yang, C. Wu, H.Fang,S. Yang,H. Wei, Y.Ding, Dimensionally and oxidatively stable anion exchange membranes based on bication cross-linked poly(meta-terphenylene alkylene)s, Polymer 216 (2021) 123433-123442.   \n[54] C.Long, Z. Wang, H. Zhu, High chemical stability anion exchange membrane based on poly(aryl piperidinium): Effect of monomer configuration on membrane properties, Int.J. Hydrogen Energy 46 (2021) 18524-18533.   \n[55] X. Wang, R.G.H. Lammertink, Dimensionally stable multication-crosslinked poly (arylene piperidinium) membranes for water electrolysis, J.Mater. Chem.A10 (15) (2022) 8401-8412.   \n[56] L. Zhu, J. Pan, Y. Wang,J. Han,L. Zhuang, M.A. Hickner, Multication side chain anion exchange membranes. Macromolecules 49 (3) (2016) 815-824.   \n[57] J.Han,L. Zhu,J.Pan,T.J. Zimudzi,Y. Wang, Y.Peng, M.A. Hickner,L. Zhuang, Elastic long-chain multication cross-linked anion exchange membranes, Macromolecules 50 (8) (2017) 3323-3332.   \n[58] J. Han, J. Pan, C. Chen,L.Wei, Y.u. Wang, Q. Pan, N. Zhao, B.o. Xie,L.i. Xiao, J. Lu, L. Zhuang, Efect of micromorphology on alkaline polymer electrolyte stability, ACS Appl. Mater. Interfaces 11 (1) (2019) 469-477.   \n[59] J. Han, Y. Zhang, F. Kang, C. Liu, W. Song, X. Zheng, X. Liu, M. Wang, X. Zhou, Z. Ren, M. Hu, L.i. Xiao, L. Zhuang, Poly(phenylene oxide)-based anion exchange membranes having linear cross-linkers or star cross-linkers, ACS Appl. Energy Mater. 5 (9) (2022) 11613-11623.   \n[60] A. Barnett, J.J. Karnes, J.Lu, D.R.Major, J.S. Oakdale, K.N. Grew, J.P. McClure, V.Molinero, Exponential water uptake in ionomer membranes results from polymer plasticization, Macromolecules 55 (15) (2022) 6762-6774.   \n[61] S.Willdorf-Cohen, A. Zhegur-Khais, J. Ponce-Gonzalez, S. Bsoul-Haj, J.R. Varcoe, C.E.Diesendruck, D.R. Dekel, Alkaline stability of anion-exchange membranes, ACS Appl. Energy Mater. 6 (2) (2023) 1085-1092.   \n[62] D.R. Dekel, M. Amar, S. Willdorf, M. Kosa, S. Dhara, C.E. Diesendruck, Effect of water on the stability of quaternary ammonium groups for anion exchange membrane fuel cell applications, Chem. Mater. 29 (10) (2017) 4425-4431.   \n[63]S.Willdorf-Cohen, A. Kaushansky, D.R. Dekel, C.E. Diesendruck, Hydroxide chemoselectivity changes with water microsolvation, J. Phys. Chem.Lett. 13 (43) (2022) 10216-10221.   \n[64] X. Gao, H. Yu, B. Qin, J. Jia, J. Hao, F. Xie, Z. Shao, Enhanced water transport in AEMs based on poly(styrene-ethylene-butylene-styrene) triblock copolymer for high fuel cell performance, Polym. Chem.10 (15) (2019) 1894-1903.   \n[65] K. Aggarwal, N. Gjineci, A. Kaushansky, S. Bsoul, J.C. Douglin, S.Li, I. Salam, S. Aharonovich, J.R. Varcoe, D.R. Dekel, C.E.Diesendruck, Isoindolinium groups as stable anion conductors for anion-exchange membrane fuel cells and electrolyzers, ACS Mater. Au 2 (3) (2022) 367-373.   \n[66] Z.H. Cai, X.L. Gao, W.T. Gao, Y.S.L. Choo, J.J. Wang, Q.G. Zhang, A.M. Zhu, Q. L.Liu, Effect of hydrophobic side chain length on poly(carbazolyl terphenyl piperidinium) anion exchange membranes, ACS Appl. Energy Mater.5 (8) (2022) 10165-10176.   \n[67] M.S. Cha, J.E. Park, S. Kim, S.-H. Han, S.-H. Shin, S.H. Yang, T.-H. Kim, D.M. Yu, S. So,Y.T. Hong, S.J. Yoon, S.-G. Oh, S.Y. Kang, O.-H. Kim, H.S. Park, B. Bae, Y.- E.Sung, Y.-H. Cho, J.Y.Lee, Poly(carbazole)-based anion-conducting materials with high performance and durability for energy conversion devices, Energy Environ. Sci. 13 (10) (2020) 3633-3645.   \n[68] L. Ma, M. Hussain, L. Li, N.A. Qaisrani, L. Bai, Y. Jia, X. Yan, F. Zhang, G.He, Octopus-like side chain grafted poly(arylene piperidinium) membranes for fuel cell application, J. Membr. Sci. 636 (2021) 119529-119539.   \n[69] X.Hu, Y. Huang, L. Liu, Q. Ju, X. Zhou, X. Qiao, Z. Zheng, N. Li, Piperidinium functionalized aryl ether-free polyaromatics as anion exchange membrane for water electrolysers: Performance and durability, J. Membr. Sci. 621 (2021) 118964-118976.   \n[70] L. Liu, L. Bai, Z. Liu, S.Miao, J. Pan, L. Shen, Y. Shi, N. Li, Side-chain structural engineering on poly(terphenyl piperidinium) anion exchange membrane for water electrolysers, J. Membr. Sci. 665 (2023) 121135-121145.   \n[71] P. Fortin, T. Khoza, X. Cao, S.Y. Martinsen, A. Oyarce Barnett, S. Holdcroft, Highperformance alkaline water electrolysis using AemionTM anion exchange membranes, J. Power Sources 451 (2020) 227814-227824.   \n[72] N. Chen, S.Y. Paek, J.Y. Lee, J.H. Park, S.Y. Lee, Y.M.Lee, High-performance anion exchange membrane water electrolyzers with a current density of $7 . 6 8 \\mathrm { A c m } ^ { - 2 }$ and a durability of 1000 hours, Energy Environ. Sci.14 (12) (2021) 6338-6348.   \n[73] R. Soni, S. Miyanishi, H. Kuroki, T. Yamaguchi, Pure water solid alkaline water electrolyzer using fully aromatic and high-molecular-weight poly(fluorene-alttetrafluorophenylene)-trimethyl ammonium anion exchange membranes and ionomers, ACS Appl. Energy Mater. 4 (2) (2021) 1053-1058.   \n[74] M.S. Cha, J.E. Park, S. Kim, S.-H. Shin, S.H. Yang, S.J. Lee, T.-H. Kim, D.M. Yu, S. So,K.M. Oh, Y.-E. Sung, Y.-H. Cho, J.Y. Lee, Oligomeric chain extender-derived anion conducting membrane materials with poly(p-phenylene)-based architecture for fuel cells and water electrolyzers,J. Mater. Chem. A10 (17) (2022) 9693-9706.   \n[75] H. Lim, I. Jeong, J. Choi, G. Shin,J. Kim, T.H. Kim, T. Park,Anion exchange membranes and ionomer properties of a polyfluorene-based polymer with alkyl spacers for water electrolysis, Appl. Surf. Sci. 610 (2023) 155601-155606. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]
